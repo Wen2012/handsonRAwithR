@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Hands-on Rasch Analysis with R"
+author: "9ytech.net"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
